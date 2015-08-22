@@ -16,7 +16,7 @@ download.file(url=archiveURL,destfile=archiveFile)
 unzip ("NEI_data.zip")
 
 # Reading in the data
-SRC <- readRDS("Source_Classification_Code.rds")
+SCC <- readRDS("Source_Classification_Code.rds")
 NEI <- readRDS("summarySCC_PM25.rds")
 
 
