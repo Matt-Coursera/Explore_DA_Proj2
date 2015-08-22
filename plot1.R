@@ -30,9 +30,9 @@ png("plot1.png")
 
 plot(names(tot.PM25yr), tot.PM25yr, type="l", xlab = "Year", ylab = expression
      ("Total" ~ PM[2.5] ~"Emissions (tons)"), main = expression("Total US" ~
-        PM[2.5] ~ "Emissions by Year"), col="Purple")
+        PM[2.5] ~ "Emissions by Year"), col="Navy")
 dev.off()
 #Building plot
 plot(names(tot.PM25yr), tot.PM25yr, type="l", xlab = "Year",
      ylab = expression ("Total" ~ PM[2.5] ~"Emissions (tons)"), main = expression
-     ("Total US" ~ PM[2.5] ~ "Emissions by Year"), col="Purple")
+     ("Total US" ~ PM[2.5] ~ "Emissions by Year"), col="Navy")
