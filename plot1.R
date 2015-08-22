@@ -3,7 +3,6 @@
 library(plyr)
 library(ggplot2)
 
-
 #Setup for download
 archiveURL <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip"
 archiveFile <- "NEI_data.zip"
