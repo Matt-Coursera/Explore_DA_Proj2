@@ -1,1 +1,0 @@
-# Code to plot plot6.png
